@@ -1,0 +1,4 @@
+# Notes on binaries and CDNs and NPM
+
+- see [Publishing NPM binaries](https://sentry.engineering/blog/publishing-binaries-on-npm) @@ <https://archive.is/1P4NA>
+  - for ideas regarding publishing binaries on NPM and using JSDelivr as an immutable CDN source
