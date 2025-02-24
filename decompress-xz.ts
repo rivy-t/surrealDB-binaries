@@ -1,5 +1,5 @@
 // Import the xz-decompress module from npm
-import decompress from 'npm:xz-decompress';
+import decompress from 'npm:xz-decompress@0.2.2';
 
 // // Read the compressed file into a Uint8Array
 // const file = await Deno.open('./surreal-windows-amd64.exe.xz', { read: true });
